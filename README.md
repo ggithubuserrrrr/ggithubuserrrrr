@@ -33,4 +33,4 @@
 ---
 
 ### 📬 Contact
-📧 [adrianrillon9@gmail.com](mailto:adrianrillon9@gmail.com)
+📧 [email](mailto:adrianrillon9@gmail.com)
