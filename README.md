@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Adrian! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6A82FB&width=435&lines=Welcome+to+my+GitHub+profile;Frontend+Enthusiast+%7C+Open+Source+Contributor;Always+learning+and+building+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6A82FB&width=435&lines=Welcome+to+my+GitHub+profile;+Open+Source+Contributor;Always+learning+and+building+projects" alt="Typing SVG" />
 </p>
 
 ---
