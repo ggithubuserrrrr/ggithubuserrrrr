@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggithubuserrrrr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ggithubuserrrrr&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🛠️ Languages & Tools
@@ -27,29 +27,10 @@
 
 ### 📊 Contribution Activity
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ggithubuserrrrr&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ggithubuserrrrr&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
-
-### 📈 GitHub Stats
-| Metric | Count |
-| --- | --- |
-| **Repositories** | ![Repository Count](https://badgen.net/github/repos/ggithubuserrrrr) |
-| **Commits this year** | ![Commit Count](https://badgen.net/github/commits/ggithubuserrrrr) |
-| **Stars** | ![Stars Count](https://badgen.net/github/stars/ggithubuserrrrr) |
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ggithubuserrrrr&theme=radical" alt="Trophies" />
-</p>
 
 ### 📬 Contact
-📧 [Your Email](mailto:youremail@example.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ggithubuserrrrr&theme=react-dark" alt="Activity Graph" />
-</p>
+📧 [adrianrillon9@gmail.com](mailto:adrianrillon9@gmail.com)
